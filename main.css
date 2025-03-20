@@ -126,7 +126,7 @@ header {
  *********************************************/
 
 #game {
-	background: url('../images/background.jpg');
+	background: url('https://raw.githubusercontent.com/dodikspot/gambarobah/refs/heads/master/background.jpg');
 	
 	position: absolute;
 	display: none;
